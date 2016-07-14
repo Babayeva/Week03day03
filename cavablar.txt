@@ -1,0 +1,43 @@
+1. Düzgün ve oxunaqlı CSS kodu yazmaq üçün lazım olabilecek 10 qayda yazın
+	
+	Cavab:
+1) Kod yazmaga başlamamışdan evvel görülecek işin planı qurulmalıdır.
+2) İsrifade olunacaq şekillerin yaddaş tutumunu minimum seviyyeye getirilmelidir.
+3) CSS-de işleyerken istifade olunacaq şekil ve diger faylları mueyyen qaydaya uyğun olaraq bir neçe hisseye ayrilmalıdır. 
+4) CSS-de işlemeye başladıqd bütün tag-ların deyerleri sıfırlanmalıdır.
+5) Kod yazarken kommentlerden istifade edilerek daha rahat başa düsülecek hala getirilmelidir.
+6) Elementelere class ve İD verilernken hemin elementin terkibine uyğun adlandırılmalıdır. 
+7) Kod yazmayolunu seçmeli ve yalniz ondan istifade edilmelidir(meselen: bir elementle bağlı olan kodları bir ve ya bir neçe sırada yazmaq)
+8) kodlar elifba sırası ile yazılmalıdır.
+9)Lazımsız kod tekrarını mümkün qeder azaltmaq
+10) Bir setre yığma buttonundan istifade ederek CSS faylının uzunluğunu azaltmaq.
+
+
+
+2.Font Awesome kimi ikon fontları varmı? Varsa qisaca haqlarinda melumat verin.
+	
+	Cavab: 
+Font Awesome kimi ikon fontları mövcuddur ve hemin fontların en yeni versiyasının terkibinde 634 ikon vardır. Bu fontların üstün cehetleri istenilen qeder boyudulse de ikonun keyfiyyetinin itmemesi, ikonun renginin asanlıqla deyişilmesi ve yaddaş tutumunun daha az olmasıdır.
+
+
+
+3.Azerbaycan şriftlerini destekleyen 10 eded font ailesinin adını ve istifade qaydasını yazın
+
+	Cavab:
+Fontlar:
+1)Tinos
+2)EB Garamond
+3)Arimo
+4)Ubuntu
+5)Noto Sans
+6)Istok Web
+7)Andika
+8)Didact Gothic
+9)Ubuntu Mono
+10)Cousine
+İstifade qaydaları:
+a)Google Font-dan uyğun font seçilir.
+b)İstifade olunacaq növleri işarelenir.
+c)uyğun xüsusiyyetler qeyd edilir.
+d) Verilen link HTML faylina elave edilir.
+e) Font-family olaraq CSS faylında hemin font yazılır. 
